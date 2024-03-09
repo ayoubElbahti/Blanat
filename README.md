@@ -1,0 +1,2 @@
+# Blanat
+The Cheapest city
